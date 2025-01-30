@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  aryaapp:
+    image: aryaapp:latest
+    build: .
+    container_name: aryaapp_container
+    volumes:
+      - ./cli-app/cli_app:/app/cli_app
+    restart: always
