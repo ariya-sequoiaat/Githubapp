@@ -1,8 +1,3 @@
-                            ### Running the program
-
-                            - python main.py input.json
-
-
 
 # GitHub Repository Info CLI
 
