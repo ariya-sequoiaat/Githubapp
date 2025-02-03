@@ -19,3 +19,6 @@ RUN pip install cli_app-0.1.0-py3-none-any.whl
 # Set the command to run your Python CLI app (adjust for your main script)
 #ENTRYPOINT ["python", "-m", "cli_app.main", "/app/cli_app/input.json"]
 #ENTRYPOINT ["python", "-m", "cli_app.main", "input.json"]
+
+
+

@@ -9,3 +9,6 @@ services:
       - ./cli-app/cli_app:/app/cli_app
     restart: always
 
+
+
+
